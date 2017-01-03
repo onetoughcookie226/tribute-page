@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {color: lightgray;
+    font-family: Lobster, SansSerif;
+    }
+
+.red-text {
+    color: red;
+}
+
+p {
+    font-size: 16px;
+    font-family: SansSerif;
+}
+
+.smaller-image {
+    width: 100px;
+}
+
+.thick-white-border {
+    border-width: 10px;
+    border-style: solid;
+    border-color: white;
+    border-radius:2px;
+}
