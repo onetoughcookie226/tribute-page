@@ -1,11 +1,4 @@
-body {
-    background-color: white;
-}
-.antiquewhite-background {
-    background-color: antiquewhite;
-    padding: 20px 20px 2px 20px;
-    margin: 10px 10px 40px;
-}
+
 
 h1 {color: lightgray;
     font-family: SansSerif;
@@ -17,37 +10,37 @@ h3 {
 }
 
 
-.box {
-    border-style:solid;
-    border-color:black;
-    border-width: 5px;
-    border-radius: 2px;
-    text-align: center;
-}
-
-.red-text {
-    color: red;
-}
-
-p {
-    font-size: 16px;
-    font-family: SansSerif;
-    text-align: center;
-}
-
 
 .thumbnail {
-    border: 1px solid  gray;
-    margin-top: 3px ;
-    margin-right: 80px;
-    margin-bottom: 3px;
-    padding: 5px 5px 70px 5px;
-    max-width: inherit;
+    border: 5px solid  gray;
+    /*max-width: 70%;*/
+    /*position: center;*/
+    margin-left: 110px;
+    margin-right: 110px;
+
+    /*max-width: 750px;*/
+    /*position: center;*/
 }
+
 
 #footer {
     padding: 10px 40px 10px 40px;
 
+}
+
+
+
+
+
+body { background: #333; }
+
+img { border: 0; max-width: 100%; }
+
+.page-header h1 {
+    font-size: 3.26em;
+    text-align: center;
+    color: #efefef;
+    text-shadow: 1px 1px 0 #000;
 }
 
 /** timeline box structure **/
